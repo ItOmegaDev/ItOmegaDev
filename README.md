@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Mikhail**, a Full-Stack Web Developer and Server Administrator based in Kharkiv, Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.
+I'm **Mikhail**, a Full-Stack Web Developer and Server Administrator based in, Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.
 
 While I work across the full stack, I find my true "flow state" in backend logic and system administration rather than frontend design. I enjoy the challenge of making things run fast, secure, and stable.
 
