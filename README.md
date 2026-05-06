@@ -1,18 +1,35 @@
 # Hey there! 👋
 
-I'm **Mikhail**, a Full-Stack Web Developer & Server Administrator based in Ukraine. 🇺🇦
+I'm **Mikhail**, a Full-Stack Web Developer and Server Administrator based in Kharkiv, Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.
 
-I love diving into backend logic and building robust, well-optimized systems. While I'm not a big fan of frontend design, I really enjoy creating powerful architectures and strict server logic behind the scenes. 🚀
+While I work across the full stack, I find my true "flow state" in backend logic and system administration rather than frontend design. I enjoy the challenge of making things run fast, secure, and stable.
 
-My main tech stack includes **Next.js 15**, **Sanity.io**, and **Linux (Ubuntu)**. My favorite tools are **Aider** for AI-assisted coding, **Kdenlive** for video editing, and standard terminal tools for managing my servers.
+## 🚀 My Tech Stack (MERN & Beyond)
 
-I've got a few cool projects, but my favorite right now is my Minecraft server network, **OmegaSMP** (`projectomegasmp.pp.ua`), where I handle complex proxy configurations (Velocity) and anti-cheat systems. I'm also currently developing a modern e-commerce platform!
+I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for building modern web applications, combined with advanced Linux environments for deployment and management.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js 15, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Sanity.io |
+| **Database** | MongoDB, PostgreSQL |
+| **Infrastructure** | Linux (Ubuntu), Velocity Proxy, Pterodactyl Panel |
+
+## 🛠️ Projects & Expertise
+
+* **OmegaSMP:** Lead Administrator and Developer of a high-performance Minecraft server. I manage proxy configurations, anti-cheat security (GrimAC), and hardware optimization.
+* **E-Commerce Platform:** Currently building a professional internet shop using Next.js 15 and Sanity CMS to ensure high performance and scalability.
+* **System Optimization:** Extensive experience in Linux kernel/driver tuning and hardware benchmarking to squeeze every bit of performance out of the system.
+
+## ⚡ Fun Facts
+
+* 🎓 I'm an 8th-grade student with a focus on Physics and History.
+* 🐧 I prefer Ubuntu for everything, from daily tasks to high-load server hosting.
+* 🚫 I don't listen to music or songs—I prefer the sound of efficient code and silent servers.
+* 🎮 When I'm not coding, I'm likely optimizing S.T.A.L.K.E.R. 2 or exploring Ukrainian Hetmanate history.
 
 ---
 
-### ⚡ Fun Facts:
-
-* 🎓 I'm currently in the 8th grade, but already deep into web dev and advanced Linux administration (testing non-LTS releases like Ubuntu 25.10).
-* 🎧 I actually don't listen to music or songs at all.
-* 🐧 I love tweaking hardware and OS for performance: I found that the 580-server-open Linux driver gives the best FPS for CS2 on my RTX 4050!
-* 📚 Hobbies: Physics, studying the history of the Ukrainian Hetmanate, PC hardware optimization, and playing S.T.A.L.K.E.R. 2.
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
