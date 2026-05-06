@@ -10,7 +10,7 @@ I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for bui
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React, Next.js 15, Tailwind CSS |
+| **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js, Sanity.io |
 | **Database** | MongoDB, PostgreSQL |
 | **Infrastructure** | Linux, Proxy, Pterodactyl Panel |
