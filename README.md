@@ -13,7 +13,7 @@ I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for bui
 | **Frontend** | React, Next.js 15, Tailwind CSS |
 | **Backend** | Node.js, Express.js, Sanity.io |
 | **Database** | MongoDB, PostgreSQL |
-| **Infrastructure** | Linux (Ubuntu), Velocity Proxy, Pterodactyl Panel |
+| **Infrastructure** | Linux, Proxy, Pterodactyl Panel |
 
 ## 🛠️ Projects & Expertise
 
@@ -24,9 +24,7 @@ I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for bui
 ## ⚡ Fun Facts
 
 * 🎓 I'm an 8th-grade student with a focus on Physics and History.
-* 🐧 I prefer Ubuntu for everything, from daily tasks to high-load server hosting.
-* 🚫 I don't listen to music or songs—I prefer the sound of efficient code and silent servers.
-* 🎮 When I'm not coding, I'm likely optimizing S.T.A.L.K.E.R. 2 or exploring Ukrainian Hetmanate history.
+* 🐧 I prefer Linux for everything, from daily tasks to high-load server hosting.
 
 ---
 
