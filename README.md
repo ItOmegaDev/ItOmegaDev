@@ -17,8 +17,7 @@ I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for bui
 
 ## 🛠️ Projects & Expertise
 
-* **OmegaSMP:** Lead Administrator and Developer of a high-performance Minecraft server. I manage proxy configurations, anti-cheat security (GrimAC), and hardware optimization.
-* **E-Commerce Platform:** Currently building a professional internet shop using Next.js 15 and Sanity CMS to ensure high performance and scalability.
+* **OmegaSMP:** Lead Administrator and Developer of a high-performance Minecraft server. I manage proxy configurations, anti-cheat security, and hardware optimization.
 * **System Optimization:** Extensive experience in Linux kernel/driver tuning and hardware benchmarking to squeeze every bit of performance out of the system.
 
 ## ⚡ Fun Facts
