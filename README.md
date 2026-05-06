@@ -34,9 +34,11 @@ I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for bui
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ItOmegaDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ItOmegaDev" height="30" width="40" /></a>
+<a href="https://github.com/ItOmegaDev" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="Github" height="40" /></a>
+<a href="https://t.me/OmegaWebSites" target="blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" height="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mongodb,postgres,mysql,firebase,linux,py,tailwind" />
