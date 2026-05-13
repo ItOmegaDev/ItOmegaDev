@@ -36,7 +36,7 @@
 
 <h2 align="center">⚡ Fun Facts</h2>
 
-*   🎓 I'm an 8th-grade student with a focus on Physics and History.
+*   🎓 I'm an 8th-grade student.
 *   🐧 I prefer Linux for everything, from daily tasks to high-load server hosting.
 *   💬 Ask me about **MERN Stack, Next.js, Sanity.io, PostgreSQL, and server administration.**
 
