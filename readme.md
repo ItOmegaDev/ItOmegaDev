@@ -12,6 +12,8 @@
 
 <h2 align="center">🚀 My Tech Stack (MERN & Beyond)</h2>
 
+<p align="center">I specialize in the **MERN Stack** (MongoDB, Express.js, React, Node.js) for building modern web applications, combined with advanced Linux environments for deployment and management.</p> 
+
 <div align="center">
 
 | Category | Technologies |
