@@ -83,9 +83,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DevOmega/DevOmega/snake-output/snake.svg" alt="Snake animation" />
-</div>
+........
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DevOmega.DevOmega" alt="visitor badge" />
