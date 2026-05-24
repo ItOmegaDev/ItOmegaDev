@@ -1,8 +1,5 @@
 <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-
-<h1 align="center">Hey there! 👋</h1>
+<a href="#"><img alt="ItOmegaDev" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YouHaveTrouble&fontAlignY=35&fontSize=50&desc=I%20do%20stuff%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 
 <p align="center">I'm <b>Mikhail</b>, a Full-Stack Web Developer and Server Administrator based in Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.</p>
 
