@@ -1,5 +1,5 @@
 <div>
-<a href="#"><img alt="ItOmegaDev" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=YouHaveTrouble&fontAlignY=35&fontSize=50&desc=I%20do%20stuff%20for%20fun&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
+<a href="#"><img alt="ItOmegaDev" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ItOmegaDev&fontAlignY=35&fontSize=50&desc=%20%20%20%20&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 
 <p align="center">I'm <b>Mikhail</b>, a Full-Stack Web Developer and Server Administrator based in Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.</p>
 
