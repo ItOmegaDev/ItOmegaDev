@@ -1,7 +1,7 @@
 <div>
 <a href="#"><img alt="ItOmegaDev" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ItOmegaDev&fontAlignY=35&fontSize=50&desc=%20%20%20%20&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 
-<p align="center">I'm <b>Mikhail</b>, a Full-Stack Web Developer and Server Administrator based in Ukraine. I have a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.</p>
+<p align="center">I'm <b>Mikhail</b>, a Full-Stack Web Developer and server administrator with a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.</p>
 
 <p align="center">While I work across the full stack, I find my true "flow state" in backend logic and system administration rather than frontend design. I enjoy the challenge of making things run fast, secure, and stable.</p>
 
