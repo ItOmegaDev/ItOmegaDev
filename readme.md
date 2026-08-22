@@ -18,6 +18,7 @@
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js, Sanity.io |
 | **Database** | MongoDB, PostgreSQL |
+| **AI / Neural Networks** | AI model integration, prompt engineering, automation |
 | **Infrastructure** | Linux, Proxy, Pterodactyl Panel |
 
 </div>
