@@ -29,17 +29,6 @@
 *   **Server Development** — building stable backend systems and APIs with a focus on performance and security.
 *   **System Administration** — configuring and maintaining Linux environments, network security, hardware optimization.
 *   **AI Work** — applying neural networks to solve practical problems and improve development efficiency.
----
-
-<h2 align="center">⚡ Fun Facts</h2>
-
-*   🎓 I'm an 8th-grade student.
-*   🐧 I prefer Linux for everything, from daily tasks to high-load server hosting.
-*   💬 Ask me about **MERN Stack, Next.js, Sanity.io, PostgreSQL, and server administration.**
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
 
 ---
 
