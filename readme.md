@@ -9,7 +9,7 @@
 
 <h2 align="center">🚀 My Tech Stack (MERN & Beyond)</h2>
 
-<p align="center">I specialize in the <b>MERN Stack</b> (MongoDB, Express.js, React, Node.js) for building modern web applications, combined with advanced Linux environments for deployment and management.</p>
+<p align="center">I specialize in the MERN Stack for building modern web applications, combined with advanced Linux environments for deployment and management. I also focus strongly on working with neural networks — integrating AI tools into projects, automating tasks, and leveraging models to optimize workflows.</p>
 
 <div align="center">
 
@@ -24,11 +24,11 @@
 
 ---
 
-<h2 align="center">🛠️ Projects & Expertise</h2>
+<h2 align="center">🛠️ Areas of Work</h2>
 
-*   **OmegaSMP:** Lead Administrator and Developer of a high-performance Minecraft server. I manage proxy configurations, anti-cheat security, and hardware optimization.
-*   **System Optimization:** Extensive experience in Linux kernel/driver tuning and hardware benchmarking to squeeze every bit of performance out of the system.
-
+*   **Server Development** — building stable backend systems and APIs with a focus on performance and security.
+*   **System Administration** — configuring and maintaining Linux environments, network security, hardware optimization.
+*   **AI Work** — applying neural networks to solve practical problems and improve development efficiency.
 ---
 
 <h2 align="center">⚡ Fun Facts</h2>
