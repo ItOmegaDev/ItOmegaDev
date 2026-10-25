@@ -1,82 +1,66 @@
-<div>
-<a href="#"><img alt="ItOmegaDev" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=ItOmegaDev&fontAlignY=35&fontSize=50&desc=%20%20%20%20&descSize=13&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
+![ItOmegaDev banner](assets/banner.png)
 
-<p align="center">I'm <b>Mikhail</b>, a Full-Stack Web Developer and server administrator with a deep passion for building robust backend systems, optimizing server performance, and managing complex network architectures.</p>
+# ItOmegaDev
 
-<p align="center">While I work across the full stack, I find my true "flow state" in backend logic and system administration rather than frontend design. I enjoy the challenge of making things run fast, secure, and stable.</p>
+I'm **Mikhail (Omega)** — Software Engineer focused on **Full-Stack & Infrastructure**.
 
----
+I build web applications, backend services, automation tools and game-server infrastructure. My work combines product development with Linux, Docker, networking and security-minded operations.
 
-<h2 align="center">🚀 My Tech Stack (MERN & Beyond)</h2>
+## Focus areas
 
-<p align="center">I specialize in the MERN Stack for building modern web applications, combined with advanced Linux environments for deployment and management. I also focus strongly on working with neural networks — integrating AI tools into projects, automating tasks, and leveraging models to optimize workflows.</p>
+- **Full-Stack Web Development** — Next.js, React, TypeScript, Node.js, Express, MongoDB, PostgreSQL
+- **Backend & APIs** — REST APIs, authentication, databases, server-side logic
+- **DevOps & Infrastructure** — Linux, Docker, Nginx, SSH, CI/CD, self-hosting
+- **Game Server Engineering** — Minecraft Velocity/Purpur, plugins, configuration, performance
+- **Automation & AI Integration** — scripts, bots, API integrations, local AI workflows
 
-<div align="center">
+## Featured projects
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js, Sanity.io |
-| **Database** | MongoDB, PostgreSQL |
-| **AI / Neural Networks** | AI model integration, prompt engineering, automation |
-| **Infrastructure** | Linux, Proxy, Pterodactyl Panel |
+| Project | Stack | Description |
+|---|---|---|
+| [discord-auth](https://github.com/ItOmegaDev/discord-auth) | Java, Velocity | Discord verification and password gate for Minecraft proxy players |
+| [EdgeProxy](https://github.com/ItOmegaDev/EdgeProxy) | Go, Node.js, React | Edge reverse proxy, tunneling agent, dashboard and DDoS shield |
+| [ControlPanel](https://github.com/ItOmegaDev/ControlPanel) | React, TypeScript, Vite | Game-server management dashboard concept |
+| [Pedagogical-hub](https://github.com/ItOmegaDev/Pedagogical-hub) | React, Firebase | Platform for sharing educational materials |
+| [Yulia](https://github.com/ItOmegaDev/Yulia) | React, Node.js, Firebase | Bespoke tailoring storefront and admin panel |
+| OmegaOS | HTML, CSS, JavaScript | Browser-based desktop-style OS demo |
+| [OmegaSMP](https://omegasmp.pp.ua) | Velocity, Purpur | Semi-anarchy Minecraft network with cross-play and custom plugins |
 
-</div>
+## Services
 
----
+**Omega.jar — web development under key**
 
-<h2 align="center">🛠️ Areas of Work</h2>
+- Landing pages: from $60
+- Portfolio / business card sites: from $50
+- Simple pages: from $30
+- Mobile adaptation: included
+- Fixes and small improvements: from $5
 
-*   **Server Development** — building stable backend systems and APIs with a focus on performance and security.
-*   **System Administration** — configuring and maintaining Linux environments, network security, hardware optimization.
-*   **AI Work** — applying neural networks to solve practical problems and improve development efficiency.
+Terms: 50% prepayment, full source code included, 3 days of free revisions.
 
----
+## Minecraft network
 
-<h2 align="left">I code with</h2>
+- Public address: `omegasmp.pp.ua`
+- Java + Bedrock cross-play
+- Discord verification and password-based access
+- Custom Velocity/Purpur plugins and security-focused setup
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-</div>
+## Contact
 
----
+- GitHub: https://github.com/ItOmegaDev
+- Fiverr: https://www.fiverr.com/s/d0pRVwa
+- Telegram: https://t.me/ItOmega
+- Channel: https://t.me/DevOmegaTgk
+- Community chat: Omega Chat
 
-<h2 align="left">Connect with me:</h2>
+## Security
 
-<div align="left">
-  <a href="https://discord.com/users/1131637781697929216" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
-  </a>
-  <a href="https://t.me/ItOmega" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
-  </a>
-</div>
+Security-first workflow: no secrets in repositories, environment-based configuration, and minimal public exposure of internal services.
 
----
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake.svg" />
-  </picture>
-</div>
+## License
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItOmegaDev.ItOmegaDev" alt="visitor badge" />
-</div>
+Profile content and original code in this repository are released under the [MIT License](LICENSE).
+
+## Українською (коротко)
+
+Я — Михайло (Omega), Software Engineer з фокусом на Full-Stack & Infrastructure. Роблю вебзастосунки, backend/API, автоматизацію, Linux/Docker-інфраструктуру та ігрові сервери. Тут зібрані мої публічні проєкти, контакти та коротка інформація про послуги.
