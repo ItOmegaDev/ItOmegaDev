@@ -5,6 +5,8 @@
 
 <p align="center">I build web applications, backend services, automation tools and game-server infrastructure. My work combines software development with Linux, Docker, networking and security-minded operations.</p>
 
+<p align="center">Practical experience includes custom websites and REST APIs, self-hosted Nextcloud on Linux, data collection/filtering scripts, and Minecraft server infrastructure with custom plugins.</p>
+
 <p align="center"><b>Open to freelance / remote work.</b></p>
 
 <p align="center">
@@ -17,11 +19,6 @@
 
 ---
 
-## Focus
-
-Main work: web apps, backend services, Linux/Docker infrastructure, game servers.
-
----
 
 ## Tech stack
 
@@ -37,24 +34,24 @@ Main work: web apps, backend services, Linux/Docker infrastructure, game servers
 
 ---
 
-## Services / Pricing
+## 💼 Services / Pricing
 
 **Omega.jar — web development under key**
 
-- Landing pages: from $60
-- Portfolio / business card sites: from $50
-- Simple pages: from $30
-- Mobile adaptation: included
-- Fixes and small improvements: from $5
+| Service | Price | Timeline |
+|---|---:|---|
+| 🚀 Landing pages | from $60 | 2–4 days |
+| 💼 Portfolio / business card sites | from $50 | 2–3 days |
+| 📄 Simple pages | from $30 | 1–2 days |
+| 📱 Mobile adaptation | included | with project |
+| 🛠️ Fixes and small improvements | from $5 | by agreement |
 
-Terms: 50% prepayment, full source code, 3 days of free revisions.
+**Terms:** 50% prepayment, full source code, 3 days of free revisions.
 
 
 ---
 
 ## Contact
-
-<h2 align="left">Connect with me:</h2>
 
 <div align="left">
   <a href="https://discord.com/users/1131637781697929216" target="_blank">
@@ -62,6 +59,12 @@ Terms: 50% prepayment, full source code, 3 days of free revisions.
   </a>
   <a href="https://t.me/ItOmega" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
+  </a>
+  <a href="https://github.com/ItOmegaDev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github" />
+  </a>
+  <a href="https://www.fiverr.com/s/d0pRVwa" target="_blank">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="52" height="40" alt="fiverr" />
   </a>
 </div>
 
