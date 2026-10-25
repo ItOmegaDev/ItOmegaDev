@@ -49,10 +49,10 @@ Terms: 50% prepayment, full source code, 3 days of free revisions.
 
 ## Contact
 
-- GitHub: https://github.com/ItOmegaDev
-- Fiverr: https://www.fiverr.com/s/d0pRVwa
-- Telegram: https://t.me/ItOmega
-- Channel: https://t.me/DevOmegaTgk
+- [GitHub](https://github.com/ItOmegaDev)
+- [Fiverr](https://www.fiverr.com/s/d0pRVwa)
+- [Telegram](https://t.me/ItOmega)
+- [Channel](https://t.me/DevOmegaTgk)
 - Community chat: Omega Chat
 
 ---
