@@ -40,9 +40,9 @@
 
 | Service | Price | Timeline |
 |---|---:|---|
-| 🚀 Landing pages | from $60 | 2–4 days |
-| 💼 Portfolio / business card sites | from $50 | 2–3 days |
-| 📄 Simple pages | from $30 | 1–2 days |
+| 🚀 Landing pages | from $80 | 4–8 days |
+| 💼 Portfolio / business card sites | from $70 | 3–6 days |
+| 📄 Simple pages | from $30 | 1–4 days |
 | 📱 Mobile adaptation | included | with project |
 | 🛠️ Fixes and small improvements | from $5 | by agreement |
 
