@@ -30,17 +30,6 @@
 
 ---
 
-## Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| discord-auth | Java, Velocity | Discord verification and password gate |
-| EdgeProxy | Go, Node.js, React | Edge proxy and tunneling |
-| ControlPanel | React, TypeScript, Vite | Game-server management UI |
-| Pedagogical-hub | React, Firebase | Educational materials platform |
-| Yulia | React, Node.js, Firebase | Tailoring storefront and admin |
-| OmegaOS | HTML, CSS, JavaScript | Browser OS demo |
-
 ---
 
 ## Services / Pricing
@@ -87,7 +76,3 @@ Security-first workflow: no secrets in repositories, environment-based configura
 Profile content and original code in this repository are released under the [MIT License](LICENSE).
 
 ---
-
-## Українською (коротко)
-
-Я — Михайло (Omega), Software Engineer з фокусом на Full-Stack & Infrastructure. Роблю вебзастосунки, backend/API, автоматизацію, Linux/Docker-інфраструктуру та ігрові сервери. Тут зібрані мої публічні проєкти, контакти та коротка інформація про послуги.
