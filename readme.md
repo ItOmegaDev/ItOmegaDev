@@ -57,14 +57,21 @@ Terms: 50% prepayment, full source code, 3 days of free revisions.
 
 ---
 
-## Security
-
-Security-first workflow: no secrets in repositories, environment-based configuration, and minimal public exposure of internal services.
-
----
-
 ## License
 
 Profile content and original code in this repository are released under the [MIT License](LICENSE).
 
 ---
+
+---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ItOmegaDev.ItOmegaDev" alt="visitor badge" />
+</div>
