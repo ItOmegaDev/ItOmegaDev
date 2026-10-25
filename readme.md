@@ -5,16 +5,21 @@
 
 <p align="center">I build web applications, backend services, automation tools and game-server infrastructure. My work combines software development with Linux, Docker, networking and security-minded operations.</p>
 
+<p align="center"><b>Open to freelance / remote work.</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+</p>
+
 ---
 
-## Focus areas
+## Focus
 
-- **Full-Stack Web Development** — React, Next.js, TypeScript, Node.js, MERN, API, MongoDB, PostgreSQL
-- **DevOps & Infrastructure** — Linux, Arch, Ubuntu Server, Docker, SSH, CI/CD, monitoring
-- **Backend Development** — Node.js, Go, Express, REST API, MongoDB, PostgreSQL
-- **Systems & Network Programming** — Go, protocols, Linux, processes, sockets, CLI
-- **Game Server Engineering** — Minecraft, Paper/Purpur, Velocity, plugins, configuration, performance, Linux, Docker
-- **Automation & AI Integration** — Telegram bots, n8n, API, scripts, Ollama/LM Studio
+Main work: web apps, backend services, Linux/Docker infrastructure, game servers.
 
 ---
 
