@@ -30,48 +30,6 @@ This profile collects my public projects. Most of them are small, deployable app
 - Discord: `1131637781697929216`
 - Telegram: [@ItOmega](https://t.me/ItOmega)
 
-## Brand naming research
-
-This profile also documents a branding exploration for the **Omega** identity. The research compared 15 short brand-name variants derived from "Omega" and evaluated pronunciation, technical feel and possible uses for GitHub, Telegram, development and SMP branding.
-
-| # | Name | Pronunciation | Concept |
-|---|---|---|---|
-| 1 | OMX | om-eks | Omega shortened to a technical X identifier |
-| 2 | OMN | omn | Omega + omni ("everything") |
-| 3 | OMQ | om-kyu | Omega + Q as a core/intelligence marker |
-| 4 | OMEX | o-meks | Omega + X as a technology platform |
-| 5 | OMIX | o-miks | Omega + mix of development and infrastructure |
-| 6 | OMNX | om-en-eks | Hard technical spelling for CLI/proxy tools |
-| 7 | OMZA | om-za | Softer author-style name |
-| 8 | OGMX | o-dzhi-em-eks | Compact reinterpretation of Omega |
-| 9 | OMRX | om-ar-eks | Runtime, routing or reliability association |
-| 10 | OMVO | om-vo | Rounded standalone brand sound |
-| 11 | OMKR | om-key-ar | Core, infrastructure and engineering |
-| 12 | OMØX | om-eks | Visual Nordic/monochrome style |
-| 13 | OMGA | om-ha | Near-direct Omega abbreviation |
-| 14 | OMYN | o-min | Minimal personal brand |
-| 15 | OMNXO | om-niks-o | Umbrella brand for software and infrastructure |
-
-### Recommended shortlist
-
-| Name | Strength | Best use |
-|---|---|---|
-| OMX | Maximum brevity | Personal nickname, system tools |
-| OMEX | Natural pronunciation | One brand for all directions |
-| OMNX | Technical character | Infrastructure, networking, CLI |
-| OMRX | Runtime/routing association | Backend and proxy projects |
-| OMNXO | Most constructed identity | Long-term personal brand |
-
-Suggested direction:
-- **OMEX** if the name should be readable and suitable for web development, servers and software.
-- **OMX** if maximum brevity and terminal-style identity matter most.
-- **OMNXO** if the goal is to move away from the literal "Omega" word and build a separate identity.
-
-Follow-up ideas from the same research:
-- create 5 short slogans for OMX;
-- check availability of candidate names on GitHub, Telegram, domains and trademarks;
-- design 5 logo concepts for OMX.
-
 ## License
 
 Profile content and original code in this repository are released under the [MIT License](LICENSE).
@@ -79,5 +37,3 @@ Profile content and original code in this repository are released under the [MIT
 ## Українською (коротко)
 
 Я — Михайло, full-stack розробник і системний адміністратор. Тут зібрані мої публічні проєкти: веб-застосунки, інструменти для серверів та інфраструктури. Більшість проєктів можна запустити локально за інструкціями в їхніх README.
-
-У репозиторії також збережено дослідження брендингу на базі назви Omega: 15 варіантів коротких назв, топ-5 рекомендацій і наступні ідеї для слоганів, перевірки доступності та логотипів.
