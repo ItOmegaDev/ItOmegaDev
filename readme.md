@@ -70,16 +70,17 @@
 
 ---
 
-## Projects
+## Services / Pricing
 
-| Project | Stack | Description |
-|---|---|---|
-| discord-auth | Java, Velocity | Discord verification and password gate |
-| EdgeProxy | Go, Node.js, React | Edge proxy and tunneling |
-| ControlPanel | React, TypeScript, Vite | Game-server management UI |
-| Pedagogical-hub | React, Firebase | Educational materials platform |
-| Yulia | React, Node.js, Firebase | Tailoring storefront and admin |
-| OmegaOS | HTML, CSS, JavaScript | Browser OS demo |
+**Omega.jar — web development under key**
+
+- Landing pages: from $60
+- Portfolio / business card sites: from $50
+- Simple pages: from $30
+- Mobile adaptation: included
+- Fixes and small improvements: from $5
+
+Terms: 50% prepayment, full source code, 3 days of free revisions.
 
 ---
 
