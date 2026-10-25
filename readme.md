@@ -49,11 +49,16 @@ Terms: 50% prepayment, full source code, 3 days of free revisions.
 
 ## Contact
 
-- [GitHub](https://github.com/ItOmegaDev)
-- [Fiverr](https://www.fiverr.com/s/d0pRVwa)
-- [Telegram](https://t.me/ItOmega)
-- [Channel](https://t.me/DevOmegaTgk)
-- Community chat: Omega Chat
+<h2 align="left">Connect with me:</h2>
+
+<div align="left">
+  <a href="https://discord.com/users/1131637781697929216" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
+  </a>
+  <a href="https://t.me/ItOmega" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
+  </a>
+</div>
 
 ---
 
