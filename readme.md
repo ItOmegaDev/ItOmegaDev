@@ -44,14 +44,6 @@
 
 Terms: 50% prepayment, full source code, 3 days of free revisions.
 
----
-
-## Minecraft network
-
-- Public address: `omegasmp.pp.ua`
-- Java + Bedrock cross-play
-- Discord verification and password-based access
-- Custom Velocity/Purpur plugins and security-focused setup
 
 ---
 
