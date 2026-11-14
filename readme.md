@@ -20,16 +20,40 @@
 
 ---
 
+## About me
+
+I'm **Mikhail OmegaDevOps** — Software Engineer | Full-Stack & Infrastructure.
+
+I build web applications, backend services, automation tools and game-server infrastructure. My work combines software development with Linux, Docker, networking and security-minded operations. Practical experience includes custom websites and REST APIs, self-hosted Nextcloud on Linux, data collection/filtering scripts, and Minecraft server infrastructure with custom plugins.
+
+**Core areas:**
+- Landing pages, promotional sites, and marketing funnels
+- Corporate websites, portfolios, and business-card sites
+- Full-stack web applications with custom business logic
+- REST/GraphQL APIs and backend systems
+- Mobile adaptation, responsive layouts, and UX refinement
+- Bug fixing, refactoring, and technical debt reduction
+- Deployment, CI/CD pipelines, containerization (Docker), and Linux server administration
+- Database design and optimization (PostgreSQL, MongoDB, Firebase)
+- Game server infrastructure and plugin development (Minecraft: Paper/Purpur, Velocity)
+- Automation, bots, and integrations (Telegram, n8n, third-party APIs)
+
+**Personal notes:**
+- My primary OS is **Linux (Arch)**.
+- I love open source — all of my projects are open source.
+
+---
+
 ## Tech stack
 
 | Category | Technologies |
 |---|---|
-| Frontend | React 19, TypeScript, Vite, Tailwind CSS |
+| Frontend | Next.js, React, TypeScript, Tailwind CSS |
 | Backend | Node.js, Express, Go |
-| Databases | MongoDB, PostgreSQL, Firestore |
-| Tools | Git, GitHub, Figma, Maven |
-| Infrastructure | Linux (Arch, Ubuntu Server), Docker, Nginx, Nextcloud, Velocity, Purpur/Paper, Geyser/Floodgate, SSH |
-| Automation | Parsing, data processing, bash scripts, Telegram bots |
+| Data | PostgreSQL, MongoDB, Firebase |
+| Infrastructure | Linux (Arch, Ubuntu Server), Docker, Nginx, SSH, CI/CD |
+| Tooling | Git, GitHub, Figma |
+| Game servers | Paper/Purpur, Velocity, Geyser/Floodgate |
 
 ---
 
@@ -57,6 +81,25 @@
 
 ---
 
+## Engagement model
+
+- Fixed-price per project, scoped after technical discussion
+- 50% upfront, balance on delivery
+- Full source code handover
+- 3 days of complimentary post-delivery revisions
+
+## Indicative pricing and timelines
+
+- Landing page: from $60, 2–4 days
+- Business-card / portfolio site: from $50, 2–3 days
+- Simple page: from $30, 1–2 days
+- Mobile adaptation: included in base price
+- Revisions and incremental work: from $5
+
+Final quotation is issued after reviewing the technical specification.
+
+---
+
 ## Contact
 
 <div align="left">
@@ -68,6 +111,9 @@
   </a>
   <a href="https://github.com/ItOmegaDev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github" />
+  </a>
+  <a href="https://www.fiverr.com/s/d0pRVwa" target="_blank">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="52" height="40" alt="fiverr" />
   </a>
 </div>
 
