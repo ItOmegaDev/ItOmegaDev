@@ -3,11 +3,7 @@
 
 <p align="center">I'm <b>Mikhail (Omega)</b> — Software Engineer | Full-Stack & Infrastructure.</p>
 
-<p align="center">I build web applications, backend services, automation tools and game-server infrastructure. My work combines software development with Linux, Docker, networking and security-minded operations.</p>
-
-<p align="center">Practical experience includes custom websites and REST APIs, self-hosted Nextcloud on Linux, data collection/filtering scripts, and Minecraft server infrastructure with custom plugins.</p>
-
-<p align="center"><b>Open to freelance / remote work.</b></p>
+<p align="center">I build web apps, backend services, automation tools and game-server infrastructure on Linux, Docker and networking. Open to freelance / remote work.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -22,81 +18,36 @@
 
 ## About me
 
-I'm **Mikhail OmegaDevOps** — Software Engineer | Full-Stack & Infrastructure.
+**Mikhail OmegaDevOps** — Software Engineer | Full-Stack & Infrastructure.
 
-I build web applications, backend services, automation tools and game-server infrastructure. My work combines software development with Linux, Docker, networking and security-minded operations. Practical experience includes custom websites and REST APIs, self-hosted Nextcloud on Linux, data collection/filtering scripts, and Minecraft server infrastructure with custom plugins.
+I build web applications, backend services, automation tools and game-server infrastructure. My stack combines software development with Linux, Docker, networking and security-minded operations. Primary OS: **Linux (Arch)**. I love open source — all my projects are open source.
 
-**Core areas:**
-- Landing pages, promotional sites, and marketing funnels
-- Corporate websites, portfolios, and business-card sites
-- Full-stack web applications with custom business logic
-- REST/GraphQL APIs and backend systems
-- Mobile adaptation, responsive layouts, and UX refinement
-- Bug fixing, refactoring, and technical debt reduction
-- Deployment, CI/CD pipelines, containerization (Docker), and Linux server administration
-- Database design and optimization (PostgreSQL, MongoDB, Firebase)
-- Game server infrastructure and plugin development (Minecraft: Paper/Purpur, Velocity)
-- Automation, bots, and integrations (Telegram, n8n, third-party APIs)
+**Core areas:** landing & corporate sites, full-stack apps, REST/GraphQL APIs, mobile adaptation, refactoring, CI/CD & Docker, PostgreSQL/MongoDB/Firebase, Minecraft (Paper/Purpur, Velocity) plugins & infrastructure, bots & integrations (Telegram, n8n).
 
-**Personal notes:**
-- My primary OS is **Linux (Arch)**.
-- I love open source — all of my projects are open source.
+**Tech stack:** Next.js, React, TypeScript, Tailwind · Node.js, Express, Go · PostgreSQL, MongoDB, Firebase · Linux, Docker, Nginx, SSH, CI/CD · Git, GitHub, Figma.
 
----
-
-## Tech stack
-
-| Category | Technologies |
-|---|---|
-| Frontend | Next.js, React, TypeScript, Tailwind CSS |
-| Backend | Node.js, Express, Go |
-| Data | PostgreSQL, MongoDB, Firebase |
-| Infrastructure | Linux (Arch, Ubuntu Server), Docker, Nginx, SSH, CI/CD |
-| Tooling | Git, GitHub, Figma |
-| Game servers | Paper/Purpur, Velocity, Geyser/Floodgate |
+**Engagement:** fixed price per project, 50% upfront, full source code, 3 days of free revisions. Indicative: landing from $60 (2–4d), portfolio from $50 (2–3d), simple page from $30 (1–2d), revisions from $5.
 
 ---
 
 ## Projects
 
 ### Network & infrastructure
-
-- **[OmegaProxy](https://github.com/ItOmegaDev/OmegaProxy)** — Go-based edge reverse proxy with a multiplexed TCP tunnel, CLI agent, Node control plane and React dashboard. Optional TLS/mTLS, ACME, Prometheus metrics, fuzzing.
-- **[ControlPanel](https://github.com/ItOmegaDev/ControlPanel)** — game-server management dashboard concept: servers, nodes, placement scheduler, egg marketplace, queues, audit logs, multi-tenant views.
+- **[OmegaProxy](https://github.com/ItOmegaDev/OmegaProxy)** — Go edge reverse proxy, multiplexed TCP tunnel, CLI agent, dashboard. Optional TLS/mTLS, ACME, Prometheus, fuzzing.
+- **[ControlPanel](https://github.com/ItOmegaDev/ControlPanel)** — game-server management dashboard concept.
 
 ### Web & platforms
-
-- **[OmegaDev](https://github.com/ItOmegaDev/OmegaDev)** — personal portfolio landing (React, Vite, Docker, Caddy).
+- **[OmegaDev](https://github.com/ItOmegaDev/OmegaDev)** — portfolio landing (React, Vite, Docker, Caddy).
 - **[omega-landing-terminal](https://github.com/ItOmegaDev/omega-landing-terminal)** — terminal-style portfolio (React + Express + MongoDB).
-- **[OmegaOS](https://github.com/ItOmegaDev/OmegaOS)** — browser-based operating system (vanilla JS, Web Audio, virtual FS).
-- **[Pedagogical-hub](https://github.com/ItOmegaDev/Pedagogical-hub)** — platform for sharing educational materials (Firebase).
-- **[Yulia](https://github.com/ItOmegaDev/Yulia)** — bespoke tailoring storefront with admin panel.
+- **[OmegaOS](https://github.com/ItOmegaDev/OmegaOS)** — browser OS (vanilla JS, Web Audio, virtual FS).
+- **[Pedagogical-hub](https://github.com/ItOmegaDev/Pedagogical-hub)** — educational materials platform (Firebase).
+- **[Yulia](https://github.com/ItOmegaDev/Yulia)** — tailoring storefront with admin panel.
 - **[selen](https://github.com/ItOmegaDev/selen)** — PHP product catalog with admin panel.
-- **[Career-Guide](https://github.com/ItOmegaDev/Career-Guide)** — job-search helper with typo correction and vacancy aggregation.
+- **[Career-Guide](https://github.com/ItOmegaDev/Career-Guide)** — job-search helper with typo correction.
 
 ### Minecraft plugins
-
-- **[SurvivalAdmin](https://github.com/ItOmegaDev/SurvivalAdmin)** — professional administration plugin for Survival servers with role-based access control (Velocity + Paper).
-- **[DiscordAuth](https://github.com/ItOmegaDev/DiscordAuth)** — unified Discord + password authentication plugin (Velocity + Paper).
-
----
-
-## Engagement model
-
-- Fixed-price per project, scoped after technical discussion
-- 50% upfront, balance on delivery
-- Full source code handover
-- 3 days of complimentary post-delivery revisions
-
-## Indicative pricing and timelines
-
-- Landing page: from $60, 2–4 days
-- Business-card / portfolio site: from $50, 2–3 days
-- Simple page: from $30, 1–2 days
-- Mobile adaptation: included in base price
-- Revisions and incremental work: from $5
-
-Final quotation is issued after reviewing the technical specification.
+- **[SurvivalAdmin](https://github.com/ItOmegaDev/SurvivalAdmin)** — admin plugin with RBAC (Velocity + Paper).
+- **[DiscordAuth](https://github.com/ItOmegaDev/DiscordAuth)** — Discord + password auth (Velocity + Paper).
 
 ---
 
@@ -121,7 +72,7 @@ Final quotation is issued after reviewing the technical specification.
 
 ## License
 
-Profile content and original code in this repository are released under the [MIT License](LICENSE).
+Profile content and original code are released under the [MIT License](LICENSE).
 
 ---
 
