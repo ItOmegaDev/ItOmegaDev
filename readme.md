@@ -12,6 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
@@ -19,35 +20,40 @@
 
 ---
 
-
 ## Tech stack
 
 | Category | Technologies |
 |---|---|
-| Frontend | Next.js, React 18/19, TypeScript, Tailwind CSS v4, Framer Motion, Lucide, Recharts & D3 |
-| Backend | Node.js, Express, Go, MongoDB, PostgreSQL |
-| Tools | Git, GitHub, Figma, Maven 3.9+ |
-| Infrastructure | Linux (Arch, Ubuntu Server), Docker, Nginx, Nextcloud, Velocity 4.x, Purpur/Paper, Geyser/Floodgate, SSH |
-| Automation | Parsing, data processing, bash scripts, Maven builds, n8n, Telegram bots |
+| Frontend | React 19, TypeScript, Vite, Tailwind CSS |
+| Backend | Node.js, Express, Go |
+| Databases | MongoDB, PostgreSQL, Firestore |
+| Tools | Git, GitHub, Figma, Maven |
+| Infrastructure | Linux (Arch, Ubuntu Server), Docker, Nginx, Nextcloud, Velocity, Purpur/Paper, Geyser/Floodgate, SSH |
+| Automation | Parsing, data processing, bash scripts, Telegram bots |
 
 ---
 
----
+## Projects
 
-## 💼 Services / Pricing
+### Network & infrastructure
 
-**Omega.jar — web development under key**
+- **[OmegaProxy](https://github.com/ItOmegaDev/OmegaProxy)** — Go-based edge reverse proxy with a multiplexed TCP tunnel, CLI agent, Node control plane and React dashboard. Optional TLS/mTLS, ACME, Prometheus metrics, fuzzing.
+- **[ControlPanel](https://github.com/ItOmegaDev/ControlPanel)** — game-server management dashboard concept: servers, nodes, placement scheduler, egg marketplace, queues, audit logs, multi-tenant views.
 
-| Service | Price | Timeline |
-|---|---:|---|
-| 🚀 Landing pages | from $80 | 4–8 days |
-| 💼 Portfolio / business card sites | from $70 | 3–6 days |
-| 📄 Simple pages | from $30 | 1–4 days |
-| 📱 Mobile adaptation | included | with project |
-| 🛠️ Fixes and small improvements | from $5 | by agreement |
+### Web & platforms
 
-**Terms:** 50% prepayment, full source code, 3 days of free revisions.
+- **[OmegaDev](https://github.com/ItOmegaDev/OmegaDev)** — personal portfolio landing (React, Vite, Docker, Caddy).
+- **[omega-landing-terminal](https://github.com/ItOmegaDev/omega-landing-terminal)** — terminal-style portfolio (React + Express + MongoDB).
+- **[OmegaOS](https://github.com/ItOmegaDev/OmegaOS)** — browser-based operating system (vanilla JS, Web Audio, virtual FS).
+- **[Pedagogical-hub](https://github.com/ItOmegaDev/Pedagogical-hub)** — platform for sharing educational materials (Firebase).
+- **[Yulia](https://github.com/ItOmegaDev/Yulia)** — bespoke tailoring storefront with admin panel.
+- **[selen](https://github.com/ItOmegaDev/selen)** — PHP product catalog with admin panel.
+- **[Career-Guide](https://github.com/ItOmegaDev/Career-Guide)** — job-search helper with typo correction and vacancy aggregation.
 
+### Minecraft plugins
+
+- **[SurvivalAdmin](https://github.com/ItOmegaDev/SurvivalAdmin)** — professional administration plugin for Survival servers with role-based access control (Velocity + Paper).
+- **[DiscordAuth](https://github.com/ItOmegaDev/DiscordAuth)** — unified Discord + password authentication plugin (Velocity + Paper).
 
 ---
 
@@ -63,9 +69,6 @@
   <a href="https://github.com/ItOmegaDev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="40" alt="github" />
   </a>
-  <a href="https://www.fiverr.com/s/d0pRVwa" target="_blank">
-    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="52" height="40" alt="fiverr" />
-  </a>
 </div>
 
 ---
@@ -76,7 +79,6 @@ Profile content and original code in this repository are released under the [MIT
 
 ---
 
----
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItOmegaDev/ItOmegaDev/output/github-snake-dark.svg" />
