@@ -26,7 +26,7 @@ I build web applications, backend services, automation tools and game-server inf
 
 **Tech stack:** Next.js, React, TypeScript, Tailwind · Node.js, Express, Go · PostgreSQL, MongoDB, Firebase · Linux, Docker, Nginx, SSH, CI/CD · Git, GitHub, Figma.
 
-**Engagement:** fixed price per project, 50% upfront, full source code, 3 days of free revisions. Indicative: landing from $60 (2–4d), portfolio from $50 (2–3d), simple page from $30 (1–2d), revisions from $5.
+For project inquiries, please reach out to **OmegaDev** (contacts below).
 
 ---
 
